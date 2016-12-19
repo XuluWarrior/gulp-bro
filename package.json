@@ -35,7 +35,7 @@
   "dependencies": {
     "browserify": "^13.1.1",
     "browserify-incremental": "^3.1.1",
-    "concat-stream": "^1.5.2",
+    "concat-stream": "^1.6.0",
     "gulp-util": "^3.0.7",
     "into-stream": "^3.0.0",
     "through2": "^2.0.1"
